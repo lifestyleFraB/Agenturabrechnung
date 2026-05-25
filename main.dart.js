@@ -91689,7 +91689,7 @@ B.anO.prototype={
 $0(){return new B.cR("","Unbekannt",0)},
 $S:56}
 B.anP.prototype={
-$1(a){var s=this,r=null,q=s.c,p=t.n_,o=s.d,n=B.aEX(B.b([B.aCn(B.b([B.fg("LEISTUNGSNACHWEIS",s.b,r),new B.jP(r,4,r),B.fg("Erstellt am: "+B.nn("dd.MM.yyyy").iV(new B.cf(Date.now(),0,!1)),q.bk(A.aBB),r)],p),A.rl),B.aCn(B.b([B.fg("Abrechnung Pro App",o,r),B.fg("Agentur-Projektverwaltung",q,r)],p),A.Om)],p),A.DL),m=B.at([0,A.nl,1,A.PX,2,A.PY,3,A.PZ,4,A.nl,5,A.nl],t.S,t.PA),l=B.b([new B.ov(B.b([new B.fc(A.cd,B.fg("Datum",o,r)),new B.fc(A.cd,B.fg("Kunde",o,r)),new B.fc(A.cd,B.fg("Taetigkeit / Notiz",o,r)),new B.fc(A.cd,B.fg("Std.",o,A.fc)),new B.fc(A.cd,B.fg("Satz",o,A.fc)),new B.fc(A.cd,B.fg("Summe",o,A.fc))],p),A.L5)],t.nk)
+$1(a){var s=this,r=null,q=s.c,p=t.n_,o=s.d,n=B.aEX(B.b([B.aCn(B.b([B.fg("LEISTUNGSNACHWEIS",s.b,r),new B.jP(r,4,r),B.fg("Erstellt am: "+B.nn("dd.MM.yyyy").iV(new B.cf(Date.now(),0,!1)),q.bk(A.aBB),r)],p),A.rl),B.aCn(B.b([B.fg("Abrechnung Pro App",o,r),B.fg("Agentur-Projektverwaltung",q,r)],p),A.Om)],p),A.DL),m=B.at([0,A.nl,1,A.PX,2,A.PY,3,A.PZ,4,A.nl,5,A.nl],t.S,t.PA),l=B.b([new B.ov(B.b([new B.fc(A.cd,B.fg("Datum",o,r)),new B.fc(A.cd,B.fg("Kunde",o,r)),new B.fc(A.cd,B.fg("Bereich",o,r)),new B.fc(A.cd,B.fg("Std.",o,A.fc)),new B.fc(A.cd,B.fg("Satz",o,A.fc)),new B.fc(A.cd,B.fg("Summe",o,A.fc))],p),A.L5)],t.nk)
 A.m.R(l,J.eJ(s.e,new B.anM(s.f,q,o),t.Wy))
 q=t.n
 return B.b([n,new B.LO(A.aBD,25,1),new B.jP(r,10,r),new B.R5(l,A.aG8,B.b([],q),B.b([],q),new B.R6(),m),new B.jP(r,20,r),new B.xU(A.Kv,r,r,B.aCp(B.aEX(B.b([B.fg("Gesamtbetrag:",o.bk(A.Eg),r),B.fg(A.r.a8(s.a.a,2)+" EUR",o.qB(A.Eg,14),r)],p),A.DL),A.L6,r,r,A.PM,200))],p)},
@@ -91703,7 +91703,7 @@ B.anK.prototype={
 $1(a){return a.a===this.a.b},
 $S:67}
 B.anL.prototype={
-$0(){return new B.cR("","Geloescht",0)},
+$0(){return new B.cR("","Unbekannt",0)},
 $S:56}
 B.anY.prototype={
 $1(a){var s=null,r=this.a,q=t.p,p=B.hj(B.b([B.vU(s,A.cI,!1,s,!0,A.ad,s,B.Jj(),r.as,s,s,s,s,s,2,A.QG,A.aI,!0,s,!0,s,!1,s,A.cw,s,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,A.dO,s,s,s,s,s,s,s,s,s,s,s,s,!0,A.bd,s,A.e8,s,s,s,s),B.vU(s,A.cI,!1,s,!0,A.ad,s,B.Jj(),r.at,s,s,s,s,s,2,A.QI,A.aI,!0,s,!0,s,!1,s,A.cw,s,s,s,s,A.pt,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,A.dO,s,s,s,s,s,s,s,s,s,s,s,s,!0,A.bd,s,A.e8,s,s,s,s)],q),A.aA,A.av,A.c0)
